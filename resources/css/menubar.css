@@ -1,0 +1,14 @@
+.ux-menubar,
+.x-nlg .ux-menubar {
+    background-image: none    !important;
+    background-color: #f0f0f0 !important;
+    border: 0 0 0 0 !important;
+}
+
+.ux-menubar-item-link-noicon {
+  padding: 6px 2px 3px 6px;
+}
+
+.ux-menubar-item-noicon {
+    display: none;
+}
